@@ -1,1 +1,1 @@
-# show-and-tell
+# show-and-tell  (Keras实现)
